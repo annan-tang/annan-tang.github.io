@@ -19,14 +19,14 @@ My research interests lie at the intersection of Robotics, Machine Learning, and
 ## News
 <a id="news"></a>
 
-- **2024.06**: One paper about developing magnetic sensor for humanoid contact force estimation is accepted by [IROS 2024](https://iros2024-abudhabi.org/). Congratulations, Takuma!
-- **2024.05**: Honored to be an invited speaker in [ICRA2024 Workshop on Humanoid Whole-body Control](https://icra-2024-humanoid.github.io/). Thanks for organizers, and learned a lot from other excellent speakers!
-- **2024.01**: [HumanMimic](https://www.youtube.com/watch?v=sdM11yHpzi8) is accepted by [ICRA 2024](https://2024.aclweb.org/). Thanks all co-authors. See you in Yokohama!
-- **2023.10**: Honored to share an invited talk with [Prof. Fan Shi](https://fanshi14.github.io/me/) in [IROS2023 Workshop on Reactive and Predictive
-Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). Appreciate the organizers and Prof. Shi for providing such a valuable opportunity, an excellent experience!
-- **2023.09**: Present about learning straight-leg walking for humanoid robots at [RSJ2023](https://ac.rsj-web.org/2023/) in Sendai.
-- **2023.06**: One paper about humanoid whole-body torque control with joint friction compensation is accepted by [IROS 2023](https://ieee-iros.org/).
-- **2021.06**: One paper about hybrid RL+WBC for quadrupedal locomotion is accepted by [IROS 2021](https://2024.aclweb.org/) during the internship at Tencent Robotics-X.(Co-first author)
+- **2024.06**: A paper on developing the magnetic sensor for humanoid whole-body contact force estimation has been accepted by IROS 2024 [IROS 2024](https://iros2024-abudhabi.org/). Congratulations, Takuma!
+- **2024.05**: Honored to be an invited speaker at [ICRA2024 Workshop on Humanoid Whole-body Control](https://icra-2024-humanoid.github.io/). Thanks to the organizers, and I learned a lot from the other excellent speakers!
+- **2024.01**: Our paper,[HumanMimic](https://www.youtube.com/watch?v=sdM11yHpzi8), has been accepted by [ICRA 2024](https://2024.aclweb.org/). Thanks to all co-authors. See you in Yokohama!
+- **2023.10**: Honored to share an invited talk with [Prof. Fan Shi](https://fanshi14.github.io/me/) at the [IROS2023 Workshop on Reactive and Predictive
+Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciate the organizers and Prof. Shi for providing such a valuable opportunity. It was an excellent experience!
+- **2023.09**: Presented on learning straight-leg walking for humanoid robots at [RSJ2023](https://ac.rsj-web.org/2023/) in Sendai.
+- **2023.06**: A paper on humanoid whole-body torque control with joint friction compensation has been accepted by [IROS 2023](https://ieee-iros.org/).
+- **2021.06**: A paper on hybrid RL+WBC for quadrupedal locomotion was accepted by [IROS 2021](https://2024.aclweb.org/) during my internship at Tencent Robotics-X. (Co-first author)
 
 ## Publications
 <a id="publications"></a>
@@ -38,15 +38,17 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). Appreciate 
         <tr>
             <td style="width: 50%; border: none;">
                 <!-- Left side content -->
-                <img src="../images/research/natural_transition1.jpg" alt="LLMFactor" style="width: 100%; height: auto;">
+                <img src="../images/research/humanmimic_natural_transition.jpg" alt="HumanMimic" style="width: 100%; height: auto;">
             </td>
             <td style="width: 50%; border: none;">
                 <!-- Right side content -->
-                <a href="https://arxiv.org/pdf/2406.10811">LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction</a>
-                <ul>
-                    <li>In this study, we introduce a novel framework called LLMFactor, which employs Sequential Knowledge-Guided Prompting (SKGP) to identify factors that influence stock movements using LLMs.</li>
-                    <li><strong>Meiyun Wang</strong>, Kiyoshi Izumi, Hiroki Sakaji, LLMFactor: Extracting Profitable Factors through Prompts for Explainable Stock Movement Prediction, <em>Findings of the Association for Computational Linguistics: ACL</em>, 2024.</li>
-                </ul>
+                <a style="text-decoration: none;">HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation</a>
+                <p><strong>Annan Tang</strong>, Takuma Hiraoka, Naoki Hiraoka, Fan Shi, Kento Kawaharazuka, Kunio Kojima, Kei Okada, and Masayuki Inaba. </p>
+                <p>In this study, we introduce a soft-boundary-constrained Wasserstein adversarial imitation learning system, allowing humanoid robots to replicate natural whole-body locomotion patterns and execute seamless transitions by mimicking human motions.</p>
+                <p>
+                    <a href="https://www.youtube.com/watch?v=sdM11yHpzi8" style="text-decoration: none;">[Video]</a>
+                    <a href="https://arxiv.org/abs/2309.14225" style="text-decoration: none;">[Paper]</a>
+                </p>
             </td>
         </tr>
     </table>
@@ -58,37 +60,40 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). Appreciate 
         <tr>
             <td style="width: 50%; border: none;">
                 <!-- Left side content -->
-                <img src="../images/research/natural_transition1.jpg" alt="CausalEnhance" style="width: 100%; height: auto;">
+                <img src="../images/research/run_like_a_dog_framework.png" alt="running_dog" style="width: 100%; height: auto;">
             </td>
             <td style="width: 50%; border: none;">
                 <!-- Right side content -->
-              <a style="text-decoration: none;">CausalEnhance: Knowledge-Enhanced Pre-training for Causality Identification and Extraction</a>
-                <ul>
-                    <li>We introduce CausalEnhance, a novel knowledge-enhanced pre-training method empowered by a rule-based automated annotation system.</li>
-                  <li><strong>Meiyun Wang</strong>, Kiyoshi Izumi, Hiroki Sakaji.</li>
-                </ul>
+                <a style="text-decoration: none;">Run Like a Dog: Learning Based Whole-Body Control Framework for Quadruped Gait Style Transfer</a>
+                <p>Fulong Yin*, <strong>Annan Tang*</strong>, Liangwei Xu, Yue Cao, Yu Zheng, Zhengyou Zhang, Xiangyu Chen, *(co-first authors)</p>
+                <p>In this paper, a learning-based whole-body locomotion controller is proposed, which enables quadruped robots to perform running in the style of real animals. We use a low-level controller based on multi-rigid body dynamics to calculate desired torques for each joint, while the high-level neural network policy planning the expected gait and foothold.</p>
+                <p>
+                    <a href="https://www.youtube.com/watch?v=g_0dtaTxG2M" style="text-decoration: none;">[Video]</a>
+                    <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636805&tag=1" style="text-decoration: none;">[Paper]</a>
+                </p>
             </td>
         </tr>
     </table>
 </html>
 
 ### Co-authored:
-**[IROS 2024] PatentCausality**
+**[IROS 2024] Magnetic tactile sensor for humanoid**
 <html>
     <table style="margin-left: auto; margin-right: auto; border-collapse: collapse; border: none; width: 100%;">
         <tr>
             <td style="width: 50%; border: none;">
                 <!-- Left side content -->
-                <img src="../images/PatentCausality.jpg" alt="PatentCausality" style="width: 100%; height: auto;">
+                <img src="../images/research/magnetic_tactile_sensor.png" alt="Magnetic_tactile sensor" style="width: 100%; height: auto;">
             </td>
             <td style="width: 50%; border: none;">
                 <!-- Right side content -->
-                <a href="https://www.sciencedirect.com/science/article/pii/S0172219023000686" style="text-decoration: none;">Discovering new applications: Cross-domain exploration of patent documents using causal extraction and similarity analysis</a>
-                <a href="https://github.com/Kirawang23/PatentCausality"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 23px; height: 23px; vertical-align: middle;"></a>
-                <ul>
-                    <li>This study suggests an approach employing causality extraction and similarity analysis to explore a technology's applicability beyond what is explicitly stated in patents.</li>
-                    <li><strong>Meiyun Wang</strong>, Hiroki Sakaji, Hiroaki Higashitani, Mitsuhiro Iwadare, and Kiyoshi Izumi, <em>World Patent Information</em>, 75:102238, 2023.</li>
-                </ul>
+                <a style="text-decoration: none;">Magnetic tactile sensor with load tolerance and flexibility using frame structures for estimating triaxial contact force distribution of humanoid</a>
+                <p><p>Takuma Hiraoka, Ren Kunita, Kunio Kojima, Naoki Hiraoka, Masanori Konishi, Tasuku Makabe, <strong>Annan Tang</strong>, Kei Okada and Masayuki Inaba</p>
+                <p>This paper proposes a method of constructing a load tolerant tactile sensor by separating the loaded part from the measuring part with magnetism and protecting the measuring part inside the frame of the robot. For modeling difficulties, this paper proposes learning the relationship between the change in the detected physical quantity due to deformation of the elastic body and the contact force distribution.</p>
+                <p>
+                    <a href="https://annan-tang.github.io/" style="text-decoration: none;">[Video]</a>
+                    <a href="https://annan-tang.github.io/" style="text-decoration: none;">[Paper]</a>
+                </p>
             </td>
         </tr>
     </table>
@@ -100,22 +105,22 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). Appreciate 
         <tr>
             <td style="width: 50%; border: none;">
                 <!-- Left side content -->
-                <img src="../images/PatentCausality.jpg" alt="PatentCausality" style="width: 100%; height: auto;">
+                <img src="../images/research/natural_transition1.jpg" alt="LLMFactor" style="width: 100%; height: auto;">
             </td>
             <td style="width: 50%; border: none;">
                 <!-- Right side content -->
-                <a href="https://www.sciencedirect.com/science/article/pii/S0172219023000686" style="text-decoration: none;">Discovering new applications: Cross-domain exploration of patent documents using causal extraction and similarity analysis</a>
-                <a href="https://github.com/Kirawang23/PatentCausality"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width: 23px; height: 23px; vertical-align: middle;"></a>
-                <ul>
-                    <li>This study suggests an approach employing causality extraction and similarity analysis to explore a technology's applicability beyond what is explicitly stated in patents.</li>
-                    <li><strong>Meiyun Wang</strong>, Hiroki Sakaji, Hiroaki Higashitani, Mitsuhiro Iwadare, and Kiyoshi Izumi, <em>World Patent Information</em>, 75:102238, 2023.</li>
-                </ul>
+                <a style="text-decoration: none;">HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation</a>
+                <p><strong>Annan Tang</strong>, Takuma Hiraoka, Naoki Hiraoka, Fan Shi, Kento Kawaharazuka, Kunio Kojima, Kei Okada, and Masayuki Inaba. </p>
+                <p>In this study, we introduce a soft-boundary-constrained Wasserstein adversarial imitation learning system, allowing humanoid robots to replicate natural whole-body locomotion patterns and execute seamless transitions by mimicking human motions.</p>
+                <p>
+                    <a href="https://www.youtube.com/watch?v=sdM11yHpzi8" style="text-decoration: none;">[Video]</a>
+                    <a href="https://arxiv.org/abs/2309.14225" style="text-decoration: none;">[Paper]</a>
+                </p>
             </td>
         </tr>
     </table>
 </html>
-
-### Japanese Conferences:
+### Other Conferences:
 <ul>
 <li><strong>[JSAI 2023]</strong>: <a style="text-decoration: none;">New Intellectual Property Management Method Aiming at Expanding Technology Applications and Secondary Development</a>, <strong>Meiyun Wang</strong>, et al, <em>The 37th Annual Conference of the Japanese Society for Artificial Intelligence</em>, 2023.
   </li>
@@ -125,9 +130,34 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). Appreciate 
   </li>
 </ul>
 
-### Co-authored:
+## Invited Talks
+<ul>
+<li><strong>[JSAI 2023]</strong>: <a style="text-decoration: none;">New Intellectual Property Management Method Aiming at Expanding Technology Applications and Secondary Development</a>, <strong>Meiyun Wang</strong>, et al, <em>The 37th Annual Conference of the Japanese Society for Artificial Intelligence</em>, 2023.
+  </li>
+  
+  <li>
+    <strong>[ICAIF 2022]</strong>: <a style="text-decoration: none;">A New Approach to Assessing Corporate R&D Capabilities: Exploring Patent Value Based on Machine Learning</a>, <strong>Meiyun Wang</strong>, et al, <em>3rd Workshop on Women in AI and Finance, 3rd ACM International Conference on AI in Finance</em>, New York, USA, Nov 2nd, 2022.
+  </li>
+</ul>
 
-## 🎖 Honors
+## Educations
+<a id="educations"></a>
+
+🎓 PhD in Mechano-Informatics  
+   University of Tokyo
+
+🎓 MSc in Mechano-Informatics  
+   University of Tokyo
+
+🎓 BSc in Mechatronics Engineering  
+   Tongji University
+
+## 💻 Internships
+<a id="internships"></a>
+
+- **2020.08 - 2021.08**: Tencent Robotics-X, Shenzhen.
+
+## Honors
 <a id="honors"></a>
 
 - **2024 ~ 2025**: <a href="https://www.cis-trans.jp/spring_gx/index-e.html">Fostering Advanced Human Resources to Lead Green Transformation (SPRING GX)</a>, The University of Tokyo.
@@ -135,16 +165,3 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). Appreciate 
 - **2023 ~ 2025**: Data Science Practicum, The University of Tokyo.
 - **2023 ~ 2025**: Designing Future Society Fellowship, The University of Tokyo.
 
-## 📖 Educations
-<a id="educations"></a>
-
-- **2022.09 - 2025.09**: PhD, The University of Tokyo, Japan.
-- **2020.04 - 2022.09**: Master, The University of Tokyo, Japan.
-
-## 💻 Internships
-<a id="internships"></a>
-
-- **2023.11 - 2024.01**: Mizuho, Tokyo.
-- **2022.04 - 2022.07**: Google STEP, Tokyo.
-- **2020.11 - 2021.08**: Tencent, Shenzhen.
-- **2020.08 - 2020.11**: PingAn, Shenzhen.
