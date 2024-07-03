@@ -24,9 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Annan Tang"
   pronouns         : # example: "she/her"  
-  bio              : |
-                  PhD Student at JSK Lab
-                  Robot Learning and Control
+  bio              : "PhD Student at JSK Lab,               Robot Learning and Control"
   location         : "Tokyo"
   employer         : "The University of Tokyo"
   uri              : # URL
