@@ -33,7 +33,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 ### First author:
 <style>
                    .custom-link {
-                       font-weight: normal; /* 加粗 */
+                       font-weight: bold; /* 加粗 */
                        font-size: larger; /* 字号更大 */
                        color: black; /* 文字颜色改为黑色 */
                        text-decoration: none !important /* 无下划线 */
@@ -50,7 +50,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
             <td style="width: 45%; border: none;">
                 <!-- Right side content -->
                 <span class="custom-link">HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation</span>
-                <p><strong>Annan Tang</strong>, Takuma Hiraoka, Naoki Hiraoka, Fan Shi, Kento Kawaharazuka, Kunio Kojima, Kei Okada, and Masayuki Inaba. </p>
+                <p style="font-style: italic;"><strong>Annan Tang</strong>, Takuma Hiraoka, Naoki Hiraoka, Fan Shi, Kento Kawaharazuka, Kunio Kojima, Kei Okada, and Masayuki Inaba. </p>
                 <p>In this study, we introduce a soft-boundary-constrained Wasserstein adversarial imitation learning system, allowing humanoid robots to replicate natural whole-body locomotion patterns and execute seamless transitions by mimicking human motions. Our system is evaluated on a full-sized humanoid JAXON. 
                      The resulting single control policy demonstrates a wide range of locomotion patterns, including standing, push-recovery, squat walking, human-like straight-leg walking, and dynamic running.</p>
                 <p>
