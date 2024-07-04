@@ -38,13 +38,23 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
         <tr>
             <td style="width: 50%; border: none;">
                 <!-- Left side content -->
-                <img src="../images/research/humanmimic_natural_transition.jpg" alt="HumanMimic" style="width: 100%; height: auto;">
+                <img src="../images/research/humanmimic_natural_transition.gif" alt="HumanMimic" style="width: 100%; height: auto;">
             </td>
             <td style="width: 50%; border: none;">
                 <!-- Right side content -->
-                <a style="text-decoration: none;">HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation</a>
+                <style>
+                   .custom-link {
+                       font-weight: bold; /* 加粗 */
+                       font-size: larger; /* 字号更大 */
+                       color: black; /* 文字颜色改为黑色 */
+                       text-decoration: none; /* 无下划线 */
+                   }
+               </style>
+                <a href="#" class="custom-link">HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation</a>
                 <p><strong>Annan Tang</strong>, Takuma Hiraoka, Naoki Hiraoka, Fan Shi, Kento Kawaharazuka, Kunio Kojima, Kei Okada, and Masayuki Inaba. </p>
-                <p>In this study, we introduce a soft-boundary-constrained Wasserstein adversarial imitation learning system, allowing humanoid robots to replicate natural whole-body locomotion patterns and execute seamless transitions by mimicking human motions.</p>
+                <p>In this study, we introduce a soft-boundary-constrained Wasserstein adversarial imitation learning system, allowing humanoid robots to replicate natural whole-body locomotion patterns and execute seamless transitions by mimicking human motions. Our system is evaluated on a full-sized humanoid JAXON. 
+                     The resulting control policy demonstrates a wide range of locomotion patterns,
+                     including standing, push-recovery, squat walking, human-like straight-leg walking, and dynamic running. Notably, even in the absence of transition motions in the demonstration dataset, the robot showcases an emerging ability to transit naturally between distinct locomotion patterns as desired speed changes.</p>
                 <p>
                     <a href="https://www.youtube.com/watch?v=sdM11yHpzi8" style="text-decoration: none;">[Video]</a>
                     <a href="https://arxiv.org/abs/2309.14225" style="text-decoration: none;">[Paper]</a>
