@@ -136,11 +136,11 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 
 <ul>
   <li>
-    <strong>[ICRA2024 Workshop]</strong>: Towards Versatile Whole-Body Motion Behavior for Humanoid Robot: From Model-Based Control to Reinforcement Learning. <strong>Annan Tang</strong>, <a href="https://icra-2024-humanoid.github.io/" style="text-decoration: none;">[ICRA2024 Workshop on Humanoid Whole-body Control]</a>, Yokohama, 2024.
+    <strong>[ICRA2024 Workshop]</strong>: Towards Versatile Whole-Body Motion Behavior for Humanoid Robot: From Model-Based Control to Reinforcement Learning, <strong>Annan Tang</strong>. <a href="https://icra-2024-humanoid.github.io/" style="text-decoration: none;"> ICRA2024 Workshop on Humanoid Whole-body Control</a>, Yokohama, 2024.
   </li>
   
   <li>
-    <strong>[IROS2023 Workshop]</strong>: Reference-based vs Reference-free Reinforcement Learning for Humanoid Robot. Fan Shi, <strong>Annan Tang</strong> <a href="https://iros-2023-humanoid.github.io/" style="text-decoration: none;">[IROS2023 Workshop on Reactive and Predictive Humanoid Whole-body Control]</a> (online), Detroit, USA, 2023.
+    <strong>[IROS2023 Workshop]</strong>: Reference-based vs Reference-free Reinforcement Learning for Humanoid Robot, Fan Shi, <strong>Annan Tang</strong>. <a href="https://iros-2023-humanoid.github.io/" style="text-decoration: none;"> IROS2023 Workshop on Reactive and Predictive Humanoid Whole-body Control</a> (online), Detroit, USA, 2023.
   </li>
 </ul>
 
