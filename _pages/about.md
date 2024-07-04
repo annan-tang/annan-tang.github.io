@@ -101,16 +101,32 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 
 **[IROS 2023] Humanoid Whole-Body Torque Control**
 <html>
+    <style>
+        .flex-row {
+            display: flex;
+            align-items: stretch; /* 使所有子项的高度相同 */
+        }
+        .flex-cell {
+            flex: 1; /* 两边各占一半宽度 */
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+        }
+        img {
+            width: 100%; /* 保持图片宽度充满单元格，高度自适应 */
+            height: auto;
+        }
+    </style>
     <table style="margin-left: auto; margin-right: auto; border-collapse: collapse; border: none; width: 100%;">
-        <tr>
-            <td style="width: 50%; border: none;">
+        <tr class="flex-row">
+            <td class="flex-cell">
                 <!-- Left side content -->
-                <img src="../images/research/torque_control.png" alt="LLMFactor" style="width: 100%; height: auto;">
+                <img src="../images/research/torque_control.png" alt="LLMFactor">
             </td>
-            <td style="width: 50%; border: none;">
+            <td class="flex-cell">
                 <!-- Right side content -->
                 <a style="text-decoration: none;">Whole-Body Torque Control Without Joint Position Control Using Vibration-Suppressed Friction Compensation for Bipedal Locomotion of Gear-Driven Torque Sensorless Humanoid</a>
-                <p>Takuma Hiraoka, Shimpei Sato, Naoki Hiraoka, <strong>Annan Tang</strong>, Kunio Kojima, Kei Okada, Masayuki Inaba, Koji Kawasaki. </p>
+                <p>Takuma Hiraoka, Shimpei Sato, Naoki Hiraoka, <strong>Annan Tang</strong>, Kunio Kojima, Kei Okada, Masayuki Inaba, Koji Kawasaki.</p>
                 <p>In this study, we propose a four-layer hierarchical torque control method for humanoid whole-body movements, including friction compensation, acceleration control, gravity control, and landing adjustment.</p>
                 <p>
                     <a href="https://ieeexplore.ieee.org/abstract/document/10341698/media#media" style="text-decoration: none;">[Video]</a>
@@ -120,6 +136,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
         </tr>
     </table>
 </html>
+
 ### Other Conferences:
 <ul>
 <li><strong>[JSAI 2023]</strong>: <a style="text-decoration: none;">New Intellectual Property Management Method Aiming at Expanding Technology Applications and Secondary Development</a>, <strong>Meiyun Wang</strong>, et al, <em>The 37th Annual Conference of the Japanese Society for Artificial Intelligence</em>, 2023.
