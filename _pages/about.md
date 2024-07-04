@@ -19,9 +19,9 @@ My research interests lie at the intersection of Robotics, Machine Learning, and
 ## News
 <a id="news"></a>
 
-- **2024.06**: A paper on developing the magnetic sensor for humanoid whole-body contact force estimation has been accepted by IROS 2024 [IROS 2024](https://iros2024-abudhabi.org/). Congratulations, Takuma!
+- **2024.06**: A paper on developing the magnetic sensor for humanoid whole-body contact force estimation has been accepted by [IROS 2024](https://iros2024-abudhabi.org/). Congratulations, Takuma!
 - **2024.05**: Honored to be an invited speaker at [ICRA2024 Workshop on Humanoid Whole-body Control](https://icra-2024-humanoid.github.io/). Thanks to the organizers, and I learned a lot from the other excellent speakers!
-- **2024.01**: Our paper,[HumanMimic](https://www.youtube.com/watch?v=sdM11yHpzi8), has been accepted by [ICRA 2024](https://2024.aclweb.org/). Thanks to all co-authors. See you in Yokohama!
+- **2024.01**: Our paper, [HumanMimic](https://www.youtube.com/watch?v=sdM11yHpzi8), has been accepted by [ICRA 2024](https://2024.aclweb.org/). Thanks to all co-authors. See you in Yokohama!
 - **2023.10**: Honored to share an invited talk with [Prof. Fan Shi](https://fanshi14.github.io/me/) at the [IROS2023 Workshop on Reactive and Predictive
 Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciate the organizers and Prof. Shi for providing such a valuable opportunity. It was an excellent experience!
 - **2023.09**: Presented on learning straight-leg walking for humanoid robots at [RSJ2023](https://ac.rsj-web.org/2023/) in Sendai.
@@ -66,7 +66,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
                 <!-- Right side content -->
                 <a style="text-decoration: none;">Run Like a Dog: Learning Based Whole-Body Control Framework for Quadruped Gait Style Transfer</a>
                 <p>Fulong Yin*, <strong>Annan Tang*</strong>, Liangwei Xu, Yue Cao, Yu Zheng, Zhengyou Zhang, Xiangyu Chen, *(co-first authors)</p>
-                <p>In this paper, a learning-based whole-body locomotion controller is proposed, which enables quadruped robots to perform running in the style of real animals. We use a low-level controller based on multi-rigid body dynamics to calculate desired torques for each joint, while the high-level neural network policy planning the expected gait and foothold.</p>
+                <p>In this paper, a learning-based whole-body locomotion controller is proposed, which enables quadruped robots to perform running in the style of real animals. We use a low-level controller based on multi-rigid body dynamics to calculate desired torques for each joint, while the high-level neural network policy plans the expected gait and foothold.</p>
                 <p>
                     <a href="https://www.youtube.com/watch?v=g_0dtaTxG2M" style="text-decoration: none;">[Video]</a>
                     <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9636805&tag=1" style="text-decoration: none;">[Paper]</a>
@@ -136,7 +136,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 
 <ul>
   <li>
-    <strong>[ICRA2024 Workshop]</strong>: Towards Versatile Whole-Body Motion Behavior for Humanoid Robot: From Model-Based Control to Reinforcement Learning, <strong>Annan Tang</strong>. <a href="https://icra-2024-humanoid.github.io/" style="text-decoration: none;"> ICRA2024 Workshop on Humanoid Whole-body Control</a>, Yokohama, 2024.
+    <strong>[ICRA2024 Workshop]</strong>: Towards Versatile Whole-Body Motion Behavior for Humanoid Robot: From Model-Based Control to Reinforcement Learning, <strong>Annan Tang</strong>. <a href="https://icra-2024-humanoid.github.io/" style="text-decoration: none;"> ICRA2024 Workshop on Humanoid Whole-body Control</a>, Yokohama, Japan, 2024.
   </li>
   
   <li>
