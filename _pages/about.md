@@ -131,11 +131,11 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 ### Others:
 <ul>
 
-<li><strong>[RSJ 2023]</strong>: <a style="text-decoration: none;">Learning Straight-Leg Walking Skill for Humanoid Robots Through Imitating Human Demonstrations</a>, <strong>Annan Tang</strong>, et al. <em> The 41st annual conference of the Robotics Society of Japan (RSJ2023)</em>.
+<li><strong>[RSJ 2023]</strong>: <span style="color: black;">Learning Straight-Leg Walking Skill for Humanoid Robots Through Imitating Human Demonstrations</span>, <strong>Annan Tang</strong>, et al. <em> The 41st annual conference of the Robotics Society of Japan (RSJ2023)</em>.
   </li>
   
   <li>
-    <strong>[SI 2023]</strong>: <a style="text-decoration: none;">Analysis of motor synergy focusing on energy efficiency in whole-body motion of life-size humanoid</a>, Yuda Issei, <strong>Annan Tang</strong>, et al.<em> In Proceedings of the 24th SICE System Integration Division Annual Conference</em>.
+    <strong>[SI 2023]</strong>: <span style="color: black;">Analysis of motor synergy focusing on energy efficiency in whole-body motion of life-size humanoid</span>, Yuda Issei, <strong>Annan Tang</strong>, et al.<em> In Proceedings of the 24th SICE System Integration Division Annual Conference</em>.
   </li>
 </ul>
 
