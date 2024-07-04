@@ -3,17 +3,20 @@ main:
   - title: "About Me"
     url: /#about-me
 
-  - title: "Research Focus"
-    url: /#research-focus
-
   - title: "News"
     url: /#news
 
   - title: "Publications"
     url: /#publications
 
-  - title: "Honors"
-    url: /#honors
+  - title: "Talks"
+    url: /#talks
+
+  - title: "Educations"
+    url: /#educations
 
   - title: "Internships"
     url: /#internships
+
+  - title: "SideProjects"
+    url: /#personal_projects

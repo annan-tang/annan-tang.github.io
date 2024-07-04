@@ -89,7 +89,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
                 <!-- Right side content -->
                 <a style="text-decoration: none;">Magnetic tactile sensor with load tolerance and flexibility using frame structures for estimating triaxial contact force distribution of humanoid</a>
                 <p>Takuma Hiraoka, Ren Kunita, Kunio Kojima, Naoki Hiraoka, Masanori Konishi, Tasuku Makabe, <strong>Annan Tang</strong>, Kei Okada and Masayuki Inaba</p>
-                <p>This paper proposes a method of constructing a load tolerant tactile sensor by separating the loaded part from the measuring part with magnetism and protecting the measuring part inside the frame of the robot. For modeling difficulties, this paper proposes learning the relationship between the change in the detected physical quantity due to deformation of the elastic body and the contact force distribution.</p>
+                <p>This paper proposes a method for constructing a load-tolerant tactile sensor that separates the loaded and measuring parts using magnetism and protects the measuring components within the robot's frame. It also explores modeling the relationship between physical deformations and contact force distribution.</p>
                 <p>
                     <a href="https://annan-tang.github.io/" style="text-decoration: none;">[Video(coming soon)]</a>
                     <a href="https://annan-tang.github.io/" style="text-decoration: none;">[Paper(coming soon)]</a>
@@ -120,25 +120,30 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
         </tr>
     </table>
 </html>
-### Other Conferences:
+### Others:
 <ul>
-<li><strong>[JSAI 2023]</strong>: <a style="text-decoration: none;">New Intellectual Property Management Method Aiming at Expanding Technology Applications and Secondary Development</a>, <strong>Meiyun Wang</strong>, et al, <em>The 37th Annual Conference of the Japanese Society for Artificial Intelligence</em>, 2023.
+
+<li><strong>[RSJ 2023]</strong>: <a style="text-decoration: none;">Learning Straight-Leg Walking Skill for Humanoid Robots Through Imitating Human Demonstrations</a>, <strong>Annan Tang</strong>, et al. <em>The 41st annual conference of the Robotics Society of Japan (RSJ2023)</em>.
   </li>
   
   <li>
-    <strong>[ICAIF 2022]</strong>: <a style="text-decoration: none;">A New Approach to Assessing Corporate R&D Capabilities: Exploring Patent Value Based on Machine Learning</a>, <strong>Meiyun Wang</strong>, et al, <em>3rd Workshop on Women in AI and Finance, 3rd ACM International Conference on AI in Finance</em>, New York, USA, Nov 2nd, 2022.
+    <strong>[SI 2023]</strong>: <a style="text-decoration: none;">Analysis of motor synergy focusing on energy efficiency in whole-body motion of life-size humanoid</a>, Yuda Issei,<strong>Annan Tang</strong>, et al.<em>, in Proceedings of the 24th SICE System Integration Division Annual Conference</em>.
   </li>
 </ul>
 
 ## Invited Talks
+<a id="talks"></a>
+
 <ul>
-<li><strong>[JSAI 2023]</strong>: <a style="text-decoration: none;">New Intellectual Property Management Method Aiming at Expanding Technology Applications and Secondary Development</a>, <strong>Meiyun Wang</strong>, et al, <em>The 37th Annual Conference of the Japanese Society for Artificial Intelligence</em>, 2023.
+  <li>
+    <strong>[ICRA2024 Workshop]</strong>: <a href="https://example.com/workshop1" style="text-decoration: none;">Towards Versatile Whole-Body Motion Behavior for Humanoid Robot: From Model-Based Control to Reinforcement Learning</a>, <strong>Annan Tang</strong>, <a href="https://icra-2024-humanoid.github.io/" style="text-decoration: none;">[ICRA2024 Workshop on Humanoid Whole-body Control]</a>, Yokohama, 2024.
   </li>
   
   <li>
-    <strong>[ICAIF 2022]</strong>: <a style="text-decoration: none;">A New Approach to Assessing Corporate R&D Capabilities: Exploring Patent Value Based on Machine Learning</a>, <strong>Meiyun Wang</strong>, et al, <em>3rd Workshop on Women in AI and Finance, 3rd ACM International Conference on AI in Finance</em>, New York, USA, Nov 2nd, 2022.
+    <strong>[IROS2023 Workshop]</strong>: <a href="https://example.com/workshop2" style="text-decoration: none;">Reference-based vs Reference-free Reinforcement Learning for Humanoid Robot</a>, Fan Shi, <strong>Annan Tang</strong>, <a href="https://iros-2023-humanoid.github.io/" style="text-decoration: none;">[IROS2023 Workshop on Reactive and Predictive Humanoid Whole-body Control]</a> (online), Detroit, USA, 2023.
   </li>
 </ul>
+
 
 ## Educations
 <a id="educations"></a>
@@ -157,11 +162,23 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 
 - **2020.08 - 2021.08**: Tencent Robotics-X, Shenzhen.
 
-## Honors
-<a id="honors"></a>
+## Personal Projects
+<a id="personal_projects"></a>
 
-- **2024 ~ 2025**: <a href="https://www.cis-trans.jp/spring_gx/index-e.html">Fostering Advanced Human Resources to Lead Green Transformation (SPRING GX)</a>, The University of Tokyo.
-- **2023 ~ 2025**: <a href="https://gsdm.u-tokyo.ac.jp/gsdm2.0/en/wings-gsdm/">World-leading Innovative Graduate Study Program on Global Leadership for Social Design and Management (WINGS-GSDM)</a>, The University of Tokyo.
-- **2023 ~ 2025**: Data Science Practicum, The University of Tokyo.
-- **2023 ~ 2025**: Designing Future Society Fellowship, The University of Tokyo.
+**PMSM FOC Control**
+<html>
+    <table style="margin-left: auto; margin-right: auto; border-collapse: collapse; border: none; width: 100%;">
+        <tr>
+            <td style="width: 50%; border: none;">
+                <!-- Left side content -->
+                <img src="../images/research/FOC2.png" alt="LLMFactor" style="width: 100%; height: auto;">
+            </td>
+            <td style="width: 50%; border: none;">
+                <!-- Right side content -->
+                <a style="text-decoration: none;">Developing and Deploying Field-Oriented Control on Planetary Gear-Based Permanent Magnet Synchronous Motor Systems</a>
+                <p><strong>Annan Tang</strong></p>
+            </td>
+        </tr>
+    </table>
+</html>
 
