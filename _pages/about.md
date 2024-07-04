@@ -22,8 +22,8 @@ My research interests lie at the intersection of Robotics, Machine Learning, and
 - **2024.06**: A paper on developing the magnetic sensor for humanoid whole-body contact force estimation has been accepted by [IROS 2024](https://iros2024-abudhabi.org/). Congratulations, Takuma!
 - **2024.05**: Honored to be an invited speaker at [ICRA2024 Workshop on Humanoid Whole-body Control](https://icra-2024-humanoid.github.io/). Thanks to the organizers, and I learned a lot from the other excellent speakers!
 - **2024.01**: Our paper, [HumanMimic](https://www.youtube.com/watch?v=sdM11yHpzi8), has been accepted by [ICRA 2024](https://2024.aclweb.org/). Thanks to all co-authors. See you in Yokohama!
-- **2023.10**: Honored to share an invited talk with [Prof. Fan Shi](https://fanshi14.github.io/me/) at the [IROS2023 Workshop on Reactive and Predictive
-Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciate the organizers and Prof. Shi for providing such a valuable opportunity. It was an excellent experience!
+- **2023.10**: Honored to share an invited talk with [Dr. Fan Shi](https://fanshi14.github.io/me/) at the [IROS2023 Workshop on Reactive and Predictive
+Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciate the organizers and Dr. Shi for providing such a valuable opportunity. It was an excellent experience!
 - **2023.09**: Presented on learning straight-leg walking for humanoid robots at [RSJ2023](https://ac.rsj-web.org/2023/) in Sendai.
 - **2023.06**: A paper on humanoid whole-body torque control with joint friction compensation has been accepted by [IROS 2023](https://ieee-iros.org/).
 - **2021.06**: A paper on hybrid RL+WBC for quadrupedal locomotion was accepted by [IROS 2021](https://2024.aclweb.org/) during my internship at Tencent Robotics-X. (Co-first author)
@@ -143,13 +143,19 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 <a id="talks"></a>
 
 <ul>
-  <li>
-    <strong>[ICRA2024 Workshop]</strong>: Towards Versatile Whole-Body Motion Behavior for Humanoid Robot: From Model-Based Control to Reinforcement Learning, <strong>Annan Tang</strong>. <a href="https://icra-2024-humanoid.github.io/" style="text-decoration: none;"> ICRA2024 Workshop on Humanoid Whole-body Control</a>, Yokohama, Japan, 2024.
-  </li>
-  
-  <li>
-    <strong>[IROS2023 Workshop]</strong>: Reference-based vs Reference-free Reinforcement Learning for Humanoid Robot, Fan Shi, <strong>Annan Tang</strong>. <a href="https://iros-2023-humanoid.github.io/" style="text-decoration: none;"> IROS2023 Workshop on Reactive and Predictive Humanoid Whole-body Control</a> (online), Detroit, USA, 2023.
-  </li>
+<li>
+  <strong>[ICRA2024 Workshop]</strong>: 
+  <span style="color: black !important;">Towards Versatile Whole-Body Motion Behavior for Humanoid Robot: From Model-Based Control to Reinforcement Learning</span>, 
+  <strong>Annan Tang</strong>. 
+  <a href="https://icra-2024-humanoid.github.io/" style="text-decoration: none;">ICRA2024 Workshop on Humanoid Whole-body Control</a>, Yokohama, Japan, 2024.
+</li>
+
+<li>
+  <strong>[IROS2023 Workshop]</strong>: 
+  <span style="color: black;">Reference-based vs Reference-free Reinforcement Learning for Humanoid Robot</span>, Fan Shi, <strong>Annan Tang</strong>. 
+  <a href="https://iros-2023-humanoid.github.io/" style="text-decoration: none;">IROS2023 Workshop on Reactive and Predictive Humanoid Whole-body Control</a> (online), Detroit, USA, 2023.
+</li>
+
 </ul>
 
 
