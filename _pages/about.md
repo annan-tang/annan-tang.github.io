@@ -88,33 +88,33 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
             <td style="width: 50%; border: none;">
                 <!-- Right side content -->
                 <a style="text-decoration: none;">Magnetic tactile sensor with load tolerance and flexibility using frame structures for estimating triaxial contact force distribution of humanoid</a>
-                <p><p>Takuma Hiraoka, Ren Kunita, Kunio Kojima, Naoki Hiraoka, Masanori Konishi, Tasuku Makabe, <strong>Annan Tang</strong>, Kei Okada and Masayuki Inaba</p>
+                <p>Takuma Hiraoka, Ren Kunita, Kunio Kojima, Naoki Hiraoka, Masanori Konishi, Tasuku Makabe, <strong>Annan Tang</strong>, Kei Okada and Masayuki Inaba</p>
                 <p>This paper proposes a method of constructing a load tolerant tactile sensor by separating the loaded part from the measuring part with magnetism and protecting the measuring part inside the frame of the robot. For modeling difficulties, this paper proposes learning the relationship between the change in the detected physical quantity due to deformation of the elastic body and the contact force distribution.</p>
                 <p>
-                    <a href="https://annan-tang.github.io/" style="text-decoration: none;">[Video]</a>
-                    <a href="https://annan-tang.github.io/" style="text-decoration: none;">[Paper]</a>
+                    <a href="https://annan-tang.github.io/" style="text-decoration: none;">[Video(coming soon)]</a>
+                    <a href="https://annan-tang.github.io/" style="text-decoration: none;">[Paper(coming soon)]</a>
                 </p>
             </td>
         </tr>
     </table>
 </html>
 
-**[IROS 2023] PatentCausality**
+**[IROS 2023] Humanoid Whole-Body Torque Control**
 <html>
     <table style="margin-left: auto; margin-right: auto; border-collapse: collapse; border: none; width: 100%;">
         <tr>
             <td style="width: 50%; border: none;">
                 <!-- Left side content -->
-                <img src="../images/research/natural_transition1.jpg" alt="LLMFactor" style="width: 100%; height: auto;">
+                <img src="../images/research/torque_control.png" alt="LLMFactor" style="width: 100%; height: auto;">
             </td>
             <td style="width: 50%; border: none;">
                 <!-- Right side content -->
-                <a style="text-decoration: none;">HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation</a>
-                <p><strong>Annan Tang</strong>, Takuma Hiraoka, Naoki Hiraoka, Fan Shi, Kento Kawaharazuka, Kunio Kojima, Kei Okada, and Masayuki Inaba. </p>
-                <p>In this study, we introduce a soft-boundary-constrained Wasserstein adversarial imitation learning system, allowing humanoid robots to replicate natural whole-body locomotion patterns and execute seamless transitions by mimicking human motions.</p>
+                <a style="text-decoration: none;">Whole-Body Torque Control Without Joint Position Control Using Vibration-Suppressed Friction Compensation for Bipedal Locomotion of Gear-Driven Torque Sensorless Humanoid</a>
+                <p>Takuma Hiraoka, Shimpei Sato, Naoki Hiraoka, <strong>Annan Tang</strong>, Kunio Kojima, Kei Okada, Masayuki Inaba, Koji Kawasaki. </p>
+                <p>In this study, we propose a four-layer hierarchical torque control method for humanoid whole-body movements, including friction compensation, acceleration control, gravity control, and landing adjustment.</p>
                 <p>
-                    <a href="https://www.youtube.com/watch?v=sdM11yHpzi8" style="text-decoration: none;">[Video]</a>
-                    <a href="https://arxiv.org/abs/2309.14225" style="text-decoration: none;">[Paper]</a>
+                    <a href="https://ieeexplore.ieee.org/abstract/document/10341698/media#media" style="text-decoration: none;">[Video]</a>
+                    <a href="https://ieeexplore.ieee.org/abstract/document/10341698" style="text-decoration: none;">[Paper]</a>
                 </p>
             </td>
         </tr>
