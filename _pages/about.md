@@ -78,26 +78,62 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 
 ### Co-authored:
 **[IROS 2024] Magnetic tactile sensor for humanoid**
-<html>
-    <table style="margin-left: auto; margin-right: auto; border-collapse: collapse; border: none; width: 100%;">
-        <tr>
-            <td style="width: 50%; border: none;">
-                <!-- Left side content -->
-                <img src="../images/research/magnetic_tactile_sensor.png" alt="Magnetic_tactile sensor" style="width: 100%; height: auto;">
-            </td>
-            <td style="width: 50%; border: none;">
-                <!-- Right side content -->
-                <a style="text-decoration: none;">Magnetic tactile sensor with load tolerance and flexibility using frame structures for estimating triaxial contact force distribution of humanoid</a>
-                <p>Takuma Hiraoka, Ren Kunita, Kunio Kojima, Naoki Hiraoka, Masanori Konishi, Tasuku Makabe, <strong>Annan Tang</strong>, Kei Okada and Masayuki Inaba</p>
-                <p>This paper proposes a method of constructing a load tolerant tactile sensor by separating the loaded part from the measuring part with magnetism and protecting the measuring part inside the frame of the robot. For modeling difficulties, this paper proposes learning the relationship between the change in the detected physical quantity due to deformation of the elastic body and the contact force distribution.</p>
-                <p>
-                    <a href="https://annan-tang.github.io/" style="text-decoration: none;">[Video(coming soon)]</a>
-                    <a href="https://annan-tang.github.io/" style="text-decoration: none;">[Paper(coming soon)]</a>
-                </p>
-            </td>
-        </tr>
-    </table>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .table-container {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            margin-top: 20px;
+        }
+        .flex-cell {
+            flex: 1; /* 保持两边宽度相等 */
+            display: flex;
+            flex-direction: column;
+            padding: 20px; /* 添加内部空间 */
+        }
+        img {
+            width: 100%; /* 保持图片宽度充满单元格 */
+            height: auto; /* 高度自适应 */
+        }
+        a {
+            text-decoration: none; /* 去除下划线 */
+            color: blue; /* 链接颜色 */
+        }
+        a:hover {
+            text-decoration: underline; /* 鼠标悬浮时添加下划线 */
+        }
+        p {
+            margin-top: 10px;
+            line-height: 1.6; /* 行间距 */
+            text-align: justify; /* 文本对齐 */
+        }
+    </style>
+</head>
+<body>
+    <div class="table-container">
+        <div class="flex-cell">
+            <!-- Left side content -->
+            <img src="../images/research/magnetic_tactile_sensor.png" alt="Magnetic_tactile sensor">
+        </div>
+        <div class="flex-cell">
+            <!-- Right side content -->
+            <a href="https://annan-tang.github.io/" style="font-size: 18px; font-weight: bold;">Magnetic tactile sensor with load tolerance and flexibility using frame structures for estimating triaxial contact force distribution of humanoid</a>
+            <p>Takuma Hiraoka, Ren Kunita, Kunio Kojima, Naoki Hiraoka, Masanori Konishi, Tasuku Makabe, <strong>Annan Tang</strong>, Kei Okada and Masayuki Inaba</p>
+            <p>This paper proposes a method of constructing a load tolerant tactile sensor by separating the loaded part from the measuring part with magnetism and protecting the measuring part inside the frame of the robot. For modeling difficulties, this paper proposes learning the relationship between the change in the detected physical quantity due to deformation of the elastic body and the contact force distribution.</p>
+            <p>
+                <a href="https://annan-tang.github.io/">[Video (coming soon)]</a>
+                <a href="https://annan-tang.github.io/">[Paper (coming soon)]</a>
+            </p>
+        </div>
+    </div>
+</body>
 </html>
+
 
 **[IROS 2023] Humanoid Whole-Body Torque Control**
 <html>
