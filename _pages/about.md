@@ -211,7 +211,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
             </td>
             <td style="width: 50%; border: none;">
                 <!-- Right side content -->
-                <a style="text-decoration: none;">Developing and Deploying Field-Oriented Control on Planetary Gear-Based Permanent Magnet Synchronous Motor Systems</a>
+                <span class="custom-link">Developing and Deploying Field-Oriented Control on Planetary Gear-Based Permanent Magnet Synchronous Motor Systems</span>
                 <p><strong>Annan Tang</strong></p>
             </td>
         </tr>
