@@ -44,11 +44,11 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 <html>
     <table style="margin-left: auto; margin-right: auto; border-collapse: collapse; border: none; width: 100%;">
         <tr>
-            <td style="width: 60%; border: none;">
+            <td style="width: 50%; border: none;">
                 <!-- Left side content -->
                 <img src="../images/research/real2sim.gif" alt="Real2Sim" style="width: 100%; height: auto;">
             </td>
-            <td style="width: 40%; border: none;">
+            <td style="width: 50%; border: none;">
                 <!-- Right side content -->
                 <span class="custom-link">Enhancing Sim-to-Real Whole-Body Dynamic Locomotion on Harmonic-Drive Humanoid via Real2Sim</span>
                 <p style="font-style: italic;"><strong>Annan Tang</strong>, Takuma Hiraoka, Masanori Konishi, Fan Shi, Kento Kawaharazuka, Kunio Kojima, Kei Okada, and Masayuki Inaba. </p>
