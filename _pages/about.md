@@ -33,7 +33,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 ### First author:
 <style>
                    .custom-link {
-                       font-weight: bold; /* 加粗 */
+                       font-weight: normal; /* 加粗 */
                        font-size: larger; /* 字号更大 */
                        color: black; /* 文字颜色改为黑色 */
                        text-decoration: none !important /* 无下划线 */
