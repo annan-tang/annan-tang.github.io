@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/introduce/selfie.jpg"
+  avatar           : "../images/introduce/selfie.jpg"
   name             : "Annan Tang"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at JSK Lab, focusing on Robot Learning and Control"
