@@ -47,7 +47,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
                 <!-- Left side content -->
                 <img src="../images/research/humanmimic_natural_transition.gif" alt="HumanMimic" style="width: 100%; height: auto;">
             </td>
-            <td style="width: 50%; border: none;">
+            <td style="width: 45%; border: none;">
                 <!-- Right side content -->
                 <span class="custom-link">HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation</span>
                 <p><strong>Annan Tang</strong>, Takuma Hiraoka, Naoki Hiraoka, Fan Shi, Kento Kawaharazuka, Kunio Kojima, Kei Okada, and Masayuki Inaba. </p>
@@ -70,7 +70,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
                 <!-- Left side content -->
                 <img src="../images/research/run_like_a_dog_framework.png" alt="running_dog" style="width: 100%; height: auto;">
             </td>
-            <td style="width: 50%; border: none;">
+            <td style="width: 45%; border: none;">
                 <!-- Right side content -->
                 <span class="custom-link">Run Like a Dog: Learning Based Whole-Body Control Framework for Quadruped Gait Style Transfer</span>
                 <p>Fulong Yin*, <strong>Annan Tang*</strong>, Liangwei Xu, Yue Cao, Yu Zheng, Zhengyou Zhang, Xiangyu Chen, *(co-first authors)</p>
@@ -89,7 +89,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 <html>
     <table style="margin-left: auto; margin-right: auto; border-collapse: collapse; border: none; width: 100%;">
         <tr>
-            <td style="width: 50%; border: none;">
+            <td style="width: 45%; border: none;">
                 <!-- Left side content -->
                 <img src="../images/research/magnetic_tactile_sensor2.png" alt="Magnetic_tactile sensor" style="width: 100%; height: auto;">
             </td>
@@ -111,7 +111,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 <html>
     <table style="margin-left: auto; margin-right: auto; border-collapse: collapse; border: none; width: 100%;">
         <tr>
-            <td style="width: 50%; border: none;">
+            <td style="width: 45%; border: none;">
                 <!-- Left side content -->
                 <img src="../images/research/torque_control.png" alt="LLMFactor" style="width: 100%; height: auto;">
             </td>
