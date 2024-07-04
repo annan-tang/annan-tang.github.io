@@ -83,7 +83,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
         <tr>
             <td style="width: 50%; border: none;">
                 <!-- Left side content -->
-                <img src="../images/research/magnetic_tactile_sensor2.PNG" alt="Magnetic_tactile sensor" style="width: 100%; height: auto;">
+                <img src="../images/research/magnetic_tactile_sensor2.png" alt="Magnetic_tactile sensor" style="width: 100%; height: auto;">
             </td>
             <td style="width: 50%; border: none;">
                 <!-- Right side content -->
@@ -111,7 +111,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
                 <!-- Right side content -->
                 <a style="text-decoration: none;">Whole-Body Torque Control Without Joint Position Control Using Vibration-Suppressed Friction Compensation for Bipedal Locomotion of Gear-Driven Torque Sensorless Humanoid</a>
                 <p>Takuma Hiraoka, Shimpei Sato, Naoki Hiraoka, <strong>Annan Tang</strong>, Kunio Kojima, Kei Okada, Masayuki Inaba, Koji Kawasaki. </p>
-                <p>In this study, we propose a four-layer hierarchical torque control method for humanoid whole-body movements, including friction compensation, acceleration control, gravity control, and landing adjustment.</p>
+                <p>In this paper, we propose a four-layer hierarchical torque control method for humanoid whole-body movements, including friction compensation, acceleration control, gravity control, and landing adjustment.</p>
                 <p>
                     <a href="https://ieeexplore.ieee.org/abstract/document/10341698/media#media" style="text-decoration: none;">[Video]</a>
                     <a href="https://ieeexplore.ieee.org/abstract/document/10341698" style="text-decoration: none;">[Paper]</a>
