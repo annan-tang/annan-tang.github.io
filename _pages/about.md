@@ -149,7 +149,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 ## Educations
 <a id="educations"></a>
 
-🎓 PhD in Mechano-Informatics  
+🎓 PhD(-ing) in Mechano-Informatics  
    University of Tokyo
 
 🎓 MSc in Mechano-Informatics  
