@@ -28,7 +28,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 - **2023.06**: A paper on humanoid whole-body torque control with joint friction compensation has been accepted by [IROS 2023](https://ieee-iros.org/).
 - **2021.06**: A paper on hybrid RL+WBC for quadrupedal locomotion was accepted by [IROS 2021](https://2024.aclweb.org/) during my internship at Tencent Robotics-X. (Co-first author)
 
-## Publications
+## 📝 Publications
 <a id="publications"></a>
 ### First author:
 <style>
@@ -44,11 +44,11 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 <html>
     <table style="margin-left: auto; margin-right: auto; border-collapse: collapse; border: none; width: 100%;">
         <tr>
-            <td style="width: 70%; border: none;">
+            <td style="width: 60%; border: none;">
                 <!-- Left side content -->
                 <img src="../images/research/real2sim.gif" alt="Real2Sim" style="width: 100%; height: auto;">
             </td>
-            <td style="width: 30%; border: none;">
+            <td style="width: 40%; border: none;">
                 <!-- Right side content -->
                 <span class="custom-link">Enhancing sim-to-real Whole-Body Dynamic Locomotion on Harmonic-Drive Humanoid via Real2Sim</span>
                 <p style="font-style: italic;"><strong>Annan Tang</strong>, Takuma Hiraoka, Masanori Konishi, Fan Shi, Kento Kawaharazuka, Kunio Kojima, Kei Okada, and Masayuki Inaba. </p>
@@ -181,7 +181,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 
 
 
-## Education
+## 📚 Education
 <a id="educations"></a>
 
 🎓 PhD(-ing) in Mechano-Informatics  
