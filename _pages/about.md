@@ -31,7 +31,14 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
 ## Publications
 <a id="publications"></a>
 ### First author:
-
+<style>
+                   .custom-link {
+                       font-weight: bold; /* 加粗 */
+                       font-size: larger; /* 字号更大 */
+                       color: black; /* 文字颜色改为黑色 */
+                       text-decoration: none !important /* 无下划线 */
+                   }
+               </style>
 **[ICRA 2024] HumanMimic**
 <html>
     <table style="margin-left: auto; margin-right: auto; border-collapse: collapse; border: none; width: 100%;">
@@ -42,19 +49,10 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
             </td>
             <td style="width: 50%; border: none;">
                 <!-- Right side content -->
-                <style>
-                   .custom-link {
-                       font-weight: bold; /* 加粗 */
-                       font-size: larger; /* 字号更大 */
-                       color: black; /* 文字颜色改为黑色 */
-                       text-decoration: none; /* 无下划线 */
-                   }
-               </style>
-                <a href="#" class="custom-link">HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation</a>
+                <span class="custom-link">HumanMimic: Learning Natural Locomotion and Transitions for Humanoid Robot via Wasserstein Adversarial Imitation</span>
                 <p><strong>Annan Tang</strong>, Takuma Hiraoka, Naoki Hiraoka, Fan Shi, Kento Kawaharazuka, Kunio Kojima, Kei Okada, and Masayuki Inaba. </p>
                 <p>In this study, we introduce a soft-boundary-constrained Wasserstein adversarial imitation learning system, allowing humanoid robots to replicate natural whole-body locomotion patterns and execute seamless transitions by mimicking human motions. Our system is evaluated on a full-sized humanoid JAXON. 
-                     The resulting control policy demonstrates a wide range of locomotion patterns,
-                     including standing, push-recovery, squat walking, human-like straight-leg walking, and dynamic running. Notably, even in the absence of transition motions in the demonstration dataset, the robot showcases an emerging ability to transit naturally between distinct locomotion patterns as desired speed changes.</p>
+                     The resulting single control policy demonstrates a wide range of locomotion patterns, including standing, push-recovery, squat walking, human-like straight-leg walking, and dynamic running.</p>
                 <p>
                     <a href="https://www.youtube.com/watch?v=sdM11yHpzi8" style="text-decoration: none;">[Video]</a>
                     <a href="https://arxiv.org/abs/2309.14225" style="text-decoration: none;">[Paper]</a>
@@ -74,7 +72,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
             </td>
             <td style="width: 50%; border: none;">
                 <!-- Right side content -->
-                <a style="text-decoration: none;">Run Like a Dog: Learning Based Whole-Body Control Framework for Quadruped Gait Style Transfer</a>
+                <span class="custom-link">Run Like a Dog: Learning Based Whole-Body Control Framework for Quadruped Gait Style Transfer</span>
                 <p>Fulong Yin*, <strong>Annan Tang*</strong>, Liangwei Xu, Yue Cao, Yu Zheng, Zhengyou Zhang, Xiangyu Chen, *(co-first authors)</p>
                 <p>In this paper, a learning-based whole-body locomotion controller is proposed, which enables quadruped robots to perform running in the style of real animals. We use a low-level controller based on multi-rigid body dynamics to calculate desired torques for each joint, while the high-level neural network policy plans the expected gait and foothold.</p>
                 <p>
@@ -97,7 +95,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
             </td>
             <td style="width: 50%; border: none;">
                 <!-- Right side content -->
-                <a style="text-decoration: none;">Magnetic tactile sensor with load tolerance and flexibility using frame structures for estimating triaxial contact force distribution of humanoid</a>
+                <span class="custom-link">Magnetic tactile sensor with load tolerance and flexibility using frame structures for estimating triaxial contact force distribution of humanoid</span>
                 <p>Takuma Hiraoka, Ren Kunita, Kunio Kojima, Naoki Hiraoka, Masanori Konishi, Tasuku Makabe, <strong>Annan Tang</strong>, Kei Okada and Masayuki Inaba</p>
                 <p>This paper proposes a method for constructing a load-tolerant tactile sensor that separates the loaded and measuring parts using magnetism and protects the measuring components within the robot's frame. It also explores modeling the relationship between physical deformations and contact force distribution.</p>
                 <p>
@@ -119,7 +117,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
             </td>
             <td style="width: 50%; border: none;">
                 <!-- Right side content -->
-                <a style="text-decoration: none;">Whole-Body Torque Control Without Joint Position Control Using Vibration-Suppressed Friction Compensation for Bipedal Locomotion of Gear-Driven Torque Sensorless Humanoid</a>
+                <span class="custom-link">Whole-Body Torque Control Without Joint Position Control Using Vibration-Suppressed Friction Compensation for Bipedal Locomotion of Gear-Driven Torque Sensorless Humanoid</span>
                 <p>Takuma Hiraoka, Shimpei Sato, Naoki Hiraoka, <strong>Annan Tang</strong>, Kunio Kojima, Kei Okada, Masayuki Inaba, Koji Kawasaki. </p>
                 <p>In this paper, we propose a four-layer hierarchical torque control method for humanoid whole-body movements, including friction compensation, acceleration control, gravity control, and landing adjustment.</p>
                 <p>
