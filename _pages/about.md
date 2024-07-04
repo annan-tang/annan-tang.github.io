@@ -50,7 +50,7 @@ Humanoid Whole-body Control](https://iros-2023-humanoid.github.io/). I appreciat
             </td>
             <td style="width: 40%; border: none;">
                 <!-- Right side content -->
-                <span class="custom-link">Enhancing sim-to-real Whole-Body Dynamic Locomotion on Harmonic-Drive Humanoid via Real2Sim</span>
+                <span class="custom-link">Enhancing Sim-to-Real Whole-Body Dynamic Locomotion on Harmonic-Drive Humanoid via Real2Sim</span>
                 <p style="font-style: italic;"><strong>Annan Tang</strong>, Takuma Hiraoka, Masanori Konishi, Fan Shi, Kento Kawaharazuka, Kunio Kojima, Kei Okada, and Masayuki Inaba. </p>
                 <p>In Submission</p>
                   <p>[Video](coming soon)</p>
