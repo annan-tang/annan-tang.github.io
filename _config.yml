@@ -30,18 +30,15 @@ author:
   uri              : # URL
   email            : "tang@jsk.imi.i.u-tokyo.ac.jp"
 
-  # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=zNnjZ00AAAAJ&hl=en"
-  semantic         : "https://www.semanticscholar.org/author/Annan-Tang/2273992257"
-
-
   # Repositories and software development
   github           : "annan-tang"
 
+  # Academic websites
+  googlescholar    : "https://scholar.google.com/citations?user=zNnjZ00AAAAJ&hl=en"
 
   # Social media
   linkedin         : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : ""@annantang_robot""# Username for X / Twitter
 
 
 
